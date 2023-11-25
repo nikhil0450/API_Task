@@ -1,4 +1,3 @@
-// models/Mentor.js
 const mongoose = require('mongoose');
 
 const mentorSchema = new mongoose.Schema({

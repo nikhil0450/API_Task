@@ -1,4 +1,3 @@
-// index.js
 const express = require('express');
 const mongoose = require('mongoose');
 const mentorRoutes = require('./routes/mentorRoutes');
